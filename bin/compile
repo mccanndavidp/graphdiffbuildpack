@@ -1,0 +1,9 @@
+#!/bin/sh
+set -e
+
+echo "Installing GraphQL Hive CLI..."
+
+# Download and install the CLI
+curl -sSL https://graphql-hive.com/install.sh | sh
+
+echo "GraphQL Hive CLI installed successfully."

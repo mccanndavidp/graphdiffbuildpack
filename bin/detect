@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "Graphdiff Buildpack"
+exit 0
